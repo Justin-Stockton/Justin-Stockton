@@ -10,7 +10,8 @@
 
 ## My GitHub Stats:
 
-<a href='#' alt='stats' ><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Justin-Stockton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></a>
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-Stockton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/Justin-Stockton/)
+
 
 ## What's In My Tool Kit
 

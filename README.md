@@ -1,6 +1,9 @@
+![profilebanner](https://user-images.githubusercontent.com/99220434/185261485-c946c22b-919e-4089-9ab9-ceb77a36b63a.gif)
+
+
 # About Me
 
-- 💼 Soon To Be Front End Web Developer for your Company
+- 💻💼 Software Engineer
 - 🎓 App Academy graduate
   - 💻 Learning tools for full-stack development
 - 💼 Former General Manager for Chipotle Mexican Grill

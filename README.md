@@ -1,13 +1,17 @@
+![profilebanner](https://user-images.githubusercontent.com/99220434/185261485-c946c22b-919e-4089-9ab9-ceb77a36b63a.gif)
+
+
 # About Me
 
-- 💼 Soon To Be Front End Web Developer for your Company
+- 💻💼 Software Engineer
 - 🎓 App Academy graduate
   - 💻 Learning tools for full-stack development
 - 💼 Former General Manager for Chipotle Mexican Grill
 
 ## My GitHub Stats:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Justin-Stockton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justin-Stockton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/Justin-Stockton/)
+
 
 ## What's In My Tool Kit
 
@@ -44,8 +48,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/justin-stockton-101a38a4/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"> </a>
-  </p>
-  <p>
   <a href="mailto:justinstockton67@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"> </a>
   </p>
 

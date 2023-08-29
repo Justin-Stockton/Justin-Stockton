@@ -4,6 +4,8 @@
 
 # About Me
 
+- 💻💼 Senior Sofware Engineer & Cloud Computing Aarchitect
+  - Safe.Right.Fast Oct. 2022 - Present
 - 💻💼 Software Engineer
 - 🎓 App Academy graduate
   - 💻 Learning tools for full-stack development

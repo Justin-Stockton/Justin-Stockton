@@ -9,7 +9,7 @@
 - 💻💼 Software Engineer
 - 🎓 App Academy graduate
   - 💻 Learning tools for full-stack development
-- 💼 Former General Manager for Chipotle Mexican Grill
+- 🌶️💼 Former General Manager for Chipotle Mexican Grill
 
 ## My GitHub Stats:
 
